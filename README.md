@@ -4,7 +4,7 @@ Create photo gallery API using NodeJS for backend and Angular/React/Vue for fron
 
 #### Functionality we must implement
 
-- We must have an endpoint for uploading, editing, deleteing, getting list of images (CRUD)
+- We must have an endpoint for uploading, editing, deleting, getting list of images (CRUD)
 - User must authorize with username and password, so we must have Sign in and Sign up functionality (Facebook Authorization will be a plus)
 - In frontend we must have ability to drag-n-drop multiple files for uploading, also we must be able to browse them
 - Must have separate progress bars for each file
